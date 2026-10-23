@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi there! 👋
 
-<!--
-**masoumeh157ch/masoumeh157ch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science graduate with an interest in **Artificial Intelligence, Machine Learning, Data Science**.
 
-Here are some ideas to get you started:
+My academic projects have allowed me to explore machine learning security, retrieval-augmented generation, database systems, and compiler design.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy exploring technical problems, building practical implementations, and strengthening my knowledge through research-oriented projects.
+
+## 🔬 Research Interests
+
+- Artificial Intelligence & Machine Learning
+- Data Science
+- Large Language Models (LLMs)
+- Retrieval-Augmented Generation (RAG)
+- Adversarial Machine Learning
+- Natural Language Processing
+
+## 🎯 Academic Interests
+
+I am interested in pursuing further academic studies in Computer Science, particularly in areas related to Artificial Intelligence, Machine Learning, and Data Science.
+
+I am motivated to deepen my understanding of these fields through advanced coursework, practical development, and research.
+
+## 📫 Connect
+
+- **GitHub:** [masoumeh157ch](https://github.com/masoumeh157ch)
